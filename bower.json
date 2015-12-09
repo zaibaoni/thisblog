@@ -1,0 +1,21 @@
+{
+  "name": "thisblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "zaibaoni <zaibaoni77@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zaibaoni/thisblog",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
